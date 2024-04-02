@@ -5,11 +5,8 @@ body {
     background-image: url("background.jpg");
     background-size: cover;
     background-position: center;
-  }
+}
 
-   body{
-    
-   } 
 .login-container {
     max-width: 400px;
     margin: 100px auto;
